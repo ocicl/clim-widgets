@@ -1,0 +1,10 @@
+* clim-widgets
+
+small collection of clim widgets
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/jschatzer/clim-widgets.git   |
+| commit  | f3bd29e  |
+| systems | clim-widgets |
+|---------+-------------------------------------------|
+
